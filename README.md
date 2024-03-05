@@ -70,8 +70,7 @@ To play any of the games in this collection:
 
 1. Clone this repository to your local machine.
 2. Navigate to the directory of the game you want to play.
-3. Follow the instructions provided in the respective README.md file for each game.
-4. Run the game script in your preferred programming language environment.
+3. Run the game script in your preferred programming language environment.
 
 ## Acknowledgments
 
