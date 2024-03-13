@@ -1,7 +1,6 @@
 """
 Collaborator: Justin Myshrall
 Date: 2/28/2024
-Title: Code for Game
 """
 import time
 from player import HumanPlayer, RandomComputerPlayer
