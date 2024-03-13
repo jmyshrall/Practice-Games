@@ -1,7 +1,6 @@
 """
 Collaborator: Justin Myshrall
 Date: 2/28/2024
-Title: Madlibs
 """
 def madlib1():
 
