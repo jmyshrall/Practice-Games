@@ -1,7 +1,6 @@
 """
 Collaborator: Justin Myshrall
 Date: 2/29/2024
-Title: Random Number Guesser
 """
 import random
 from words import words
