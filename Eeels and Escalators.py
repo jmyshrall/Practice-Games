@@ -6,7 +6,7 @@ Eels and Escalators from Spongebob
 Rules: Roll a dice to move on board eels take you down, 
 escalators go up the positions of the eels and escalators are determined by the initial dictionary
 
-Comp 430, 3/20/2023
+3/20/2023
 Justin Myshrall
 
 """""
